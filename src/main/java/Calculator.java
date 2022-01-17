@@ -55,7 +55,6 @@ class Calculator {
             a = b;
             b = c;
         }
-        
         return b;
     }
 
